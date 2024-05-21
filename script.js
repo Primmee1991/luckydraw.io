@@ -1,4 +1,4 @@
-let names = ["Alice", "Bob", "Charlie", "Diana", "Eve"];
+let names = ["วุฒิพงษ์","ภาวดี"];
 let prizes = ["iPad", "Smartphone", "Laptop", "Headphones", "Gift Card"];
 const prizeImages = {
     "iPad": "images/ipad.png",
