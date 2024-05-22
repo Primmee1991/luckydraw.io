@@ -90,5 +90,5 @@ document.getElementById('drawButton').addEventListener('click', function() {
             spread: 100,
             origin: { y: 0.6 }
         });
-    }, 1000);  // 10 วินาที
+    }, 10000);  // 10 วินาที
 });
