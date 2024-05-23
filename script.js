@@ -81,7 +81,7 @@ document.getElementById('drawButton').addEventListener('click', function() {
         // เอฟเฟกต์การหยุดการหมุนของปุ่ม
         drawButton.style.backgroundColor = "#28a745";
         drawButton.style.transform = "scale(1)";
-        drawButton.textContent = "Draw Again";
+        drawButton.textContent = "Click Again";
         drawButton.disabled = false;
 
         // แสดงพลุ
